@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "<project-id>",
+    "production": "<project-id>"
+  }
+}
